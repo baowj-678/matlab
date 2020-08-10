@@ -8,4 +8,6 @@
 | [LU_Factorization_Linear](LU_Factorization_Linear.%20m)      | **LU分解**求解线性方程组           |
 | [Cholesky](Cholesky.%20m)                                    | 矩阵的**Cholesky**分解             |
 | [Cholesky_Linear](Cholesky_Linear.%20m)                      | 利用**Cholesky分解**求解线性方程组 |
+| [Crout](Crout.%20m)                                          | **Crout分解**                      |
+| [Crout_Linear](Crout_Linear.%20m)                            | 利用**追赶法**求解线性方程组       |
 
