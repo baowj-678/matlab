@@ -31,7 +31,11 @@
 
 ### 解非线性方程
 
-| 名称                                   | 详情       |
-| -------------------------------------- | ---------- |
-| [Bisection_Method](Bisection_Method.m) | **二分法** |
+***
+
+| 名称                                                 | 详情               |
+| ---------------------------------------------------- | ------------------ |
+| [Bisection_Method](Bisection_Method.m)               | **二分法**         |
+| [Simple_Iterative_Method](Simple_Iterative_Method.m) | **普通的迭代方法** |
+| [Atiken_Iterative_Method](Atiken_Iterative_Method.m) | **Atiken迭代方法** |
 
