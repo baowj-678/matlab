@@ -13,7 +13,7 @@
 | [Cholesky](Cholesky.m)                                       | 矩阵的**Cholesky**分解             |
 | [Cholesky_Linear](Cholesky_Linear.m)                         | 利用**Cholesky分解**求解线性方程组 |
 | [Crout](Crout.m)                                             | **Crout分解**                      |
-| [Crout_Linear](Crout_Linear.m)                               | 利用**追赶法**求解线性方程组       |
+| [Crout_Linear](Crout%20Linear.m)                             | 利用**追赶法**求解线性方程组       |
 
 
 
@@ -25,4 +25,13 @@
 | ------------------------------ | --------------------- |
 | [Jacobi](Jacobi.m)             | **雅可比迭代法**      |
 | [Gauss-Seidel](Gauss_Seidel.m) | **高斯-塞德尔迭代法** |
+| [SOR](SOR.m)                   | **超松弛迭代法**      |
+
+
+
+### 解非线性方程
+
+| 名称                                   | 详情       |
+| -------------------------------------- | ---------- |
+| [Bisection_Method](Bisection_Method.m) | **二分法** |
 
