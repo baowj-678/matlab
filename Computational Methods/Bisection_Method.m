@@ -1,5 +1,5 @@
 % Author: Bao Wenjie
-% Date  : 2020-8-9
+% Date  : 2020-8-12
 % Copyright Bao Wenjie
 % Email : bwj_678@qq,com
 % Introduction 二分法求方程的解
