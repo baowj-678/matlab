@@ -33,9 +33,14 @@
 
 ***
 
-| 名称                                                 | 详情               |
-| ---------------------------------------------------- | ------------------ |
-| [Bisection_Method](Bisection_Method.m)               | **二分法**         |
-| [Simple_Iterative_Method](Simple_Iterative_Method.m) | **普通的迭代方法** |
-| [Atiken_Iterative_Method](Atiken_Iterative_Method.m) | **Atiken迭代方法** |
+| 名称                                                         | 详情                  |
+| ------------------------------------------------------------ | --------------------- |
+| [Bisection_Method](Bisection_Method.m)                       | **二分法**            |
+| [Simple_Iterative_Method](Simple_Iterative_Method.m)         | **普通的迭代方法**    |
+| [Atiken_Iterative_Method](Atiken_Iterative_Method.m)         | **Atiken迭代方法**    |
+| [Newton_Method](Newton_Method.m)                             | **牛顿迭代法**        |
+| [Newton_Method_Simple](Newton_Method_Simple.m)               | **简化的牛顿迭代法**  |
+| [Newton_Method_for_M_Heavy_Roots](Newton_Method_for_M_Heavy_Roots.m) | **m重根的牛顿迭代法** |
+| [Newton_Method_for_Heavy_Roots](Newton_Method_for_Heavy_Roots.m) | **重根的牛顿迭代法**  |
+| [Chord_Section_Method](Chord_Section_Method.m)               | **弦截法**            |
 
