@@ -44,3 +44,11 @@
 | [Newton_Method_for_Heavy_Roots](Newton_Method_for_Heavy_Roots.m) | **重根的牛顿迭代法**  |
 | [Chord_Section_Method](Chord_Section_Method.m)               | **弦截法**            |
 
+### 插值方法
+
+***
+
+| 名称                                                         | 详情                       |
+| ------------------------------------------------------------ | -------------------------- |
+| [Lagrange_Interpolation_Polynomial](Lagrange_Interpolation_Polynomial.m) | **Lagrange插值多项式**方法 |
+
