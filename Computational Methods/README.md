@@ -51,4 +51,6 @@
 | 名称                                                         | 详情                       |
 | ------------------------------------------------------------ | -------------------------- |
 | [Lagrange_Interpolation_Polynomial](Lagrange_Interpolation_Polynomial.m) | **Lagrange插值多项式**方法 |
+| [Difference_Quotient](Difference_Quotient.m)                 | 求解n阶**差商**            |
+| [Newton_Interpolation_Polynomial](Newton_Interpolation_Polynomial.m) | **牛顿插值多项式**         |
 
