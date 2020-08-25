@@ -54,3 +54,18 @@
 | [Difference_Quotient](Difference_Quotient.m)                 | 求解n阶**差商**            |
 | [Newton_Interpolation_Polynomial](Newton_Interpolation_Polynomial.m) | **牛顿插值多项式**         |
 
+### 数值积分
+
+| 名称                                                 | 详情           |
+| ---------------------------------------------------- | -------------- |
+| [Medi_Rectangle_Integral](Medi_Rectangle_Integral.m) | **中距公式**   |
+| [Trapezium_Integral](Trapezium_Integral.m)           | **梯形公式**   |
+| [Simpson_Integral](Simpson_Integral.m)               | **辛普森公式** |
+
+### 解常微分方程
+
+| 名称                                             | 详情           |
+| ------------------------------------------------ | -------------- |
+| [Explicit_Euler_Method](Explicit_Euler_Method.m) | **显式欧拉法** |
+| [Modified_Euler_Method](Modified_Euler_Method.m) | **改进欧拉法** |
+
