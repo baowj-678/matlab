@@ -3,7 +3,7 @@
 % Email: bwj_678@qq.com
 % Date: 2020/9/2
 
-function [R_best, L_best, L_ave, Shortest_Route, Shortest_Length] = ACATSP(C, NC_max, m, Alpha, Beta, Rho, Q)
+function [R_best, L_best, L_ave, Shortest_Route, Shortest_Length] = ACA_TSP(C, NC_max, m, Alpha, Beta, Rho, Q)
 %% 主要符号说明
 % C n个城市的坐标，n×2的矩阵
 % NC_max 最大迭代次数
